@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "letters":"تابک",
+        "answer":"کتاب",
+        "reward":10,
+        "xp":5
+    },
+    {
+        "id":2,
+        "letters":"ردم",
+        "answer":"مرد",
+        "reward":15,
+        "xp":8
+    },
+    {
+        "id":3,
+        "letters":"شباو",
+        "answer":"باشو",
+        "reward":20,
+        "xp":10
+    }
+]
